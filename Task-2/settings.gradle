@@ -1,0 +1,20 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+<<<<<<< HEAD
+rootProject.name = "Task 1 Quiz App"
+=======
+rootProject.name = "Online Food Delivery App"
+>>>>>>> 8bfd6b7 (Task-2-Online-Food-Delivery-App)
+include ':app'

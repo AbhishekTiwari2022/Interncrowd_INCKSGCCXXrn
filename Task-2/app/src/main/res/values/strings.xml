@@ -1,0 +1,8 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">Task 1 Quiz App</string>
+=======
+    <string name="app_name">Online Food Delivery App</string>
+    <string name="descriptionFood">Meaty portobello mushrooms make for the perfect vegetarian pizza!</string>
+>>>>>>> 8bfd6b7 (Task-2-Online-Food-Delivery-App)
+</resources>
